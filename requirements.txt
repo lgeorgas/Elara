@@ -1,0 +1,8 @@
+
+discord.py
+openai
+elevenlabs
+python-dotenv
+ffmpeg-python
+webrtcvad
+git+https://github.com/Rapptz/discord-ext-voice-recv.git
